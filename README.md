@@ -1,10 +1,10 @@
 # TASK
 Execution process:-
 In Terminal:
->pip install Flask
->pip install mysql-connector-python
->pip install Flask Flask-MySQLdb
->pip install flask-mysqldb
+1)pip install Flask
+2)pip install mysql-connector-python
+3)pip install Flask Flask-MySQLdb
+4)pip install flask-mysqldb
 
  Create a directory named as pro.
  Save app.py in pro directory.
