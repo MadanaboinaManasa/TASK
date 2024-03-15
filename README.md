@@ -16,6 +16,8 @@ In Terminal:
  It displays a web form contains name,mailid,age,dob 
  When the user enters incorrect details or incorrect format  it displays enter correct format.
  When user submits the form the details are stored in database. Here i have used MYSQL database.
+ Create a database. My database name is pr. use that database using( use pr ) command.
+ Then create a table named as users.
  
  Data retrieving:
  Save data.py in pro directory.
