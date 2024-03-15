@@ -12,11 +12,11 @@ In Terminal:
  Save users.html and index.html in templates folder.
 
  Execute app.py 
- It hives some https address copy that address and paste it in any webbrower like google,firefox,microsoft edge
- It displays a web form contains name,mailid,age,dob 
+ It gives some address like http://127.0.0.1:5000 copy that address and paste it in any webbrower like google,firefox,microsoft edge and etc..
+ It displays a web form contains name,mailid,age,dob.
  When the user enters incorrect details or incorrect format  it displays enter correct format.
  When user submits the form the details are stored in database. Here i have used MYSQL database.
- Create a database. My database name is pr. use that database using( use pr ) command.
+ Create a database in MYSQL COmmand Line Client. My database name is pr. use that database using( use pr ) command.
  Then create a table named as users.
  
  Data retrieving:
